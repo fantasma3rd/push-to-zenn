@@ -344,4 +344,6 @@ $ npx zenn preview
 
 削除は[ダッシュボード](https://zenn.dev/dashboard)から行います。`books`ディレクトリからファイルを削除しても zenn.dev 上では削除はされません。
 
-（引用: https://zenn.dev/zenn/articles/zenn-cli-guide）
+
+
+（引用: https://zenn.dev/zenn/articles/zenn-cli-guide ）
